@@ -2,7 +2,7 @@ Maria Isabel Espinosa Ibañez
 
 Lic. Matemáticas Aplicadas y Computación
 
-Actualmente desempeño el puesto de Jefa de Departamento en el Banco del Ejército, realizo tareas de administración de TI especialmente en el Desarrollo de Sistemas.
+Actualmente desempeño el puesto de Jefa de Departamento en el Banco del Ejército, realizo tareas de administración de TI especialmente en el área de Desarrollo de Sistemas.
 <!--
 **IsaEsI/IsaEsI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
